@@ -1,9 +1,10 @@
 {
-    "python.pythonPath": "D:\\Anaconda3\\python.exe",
+    "python.pythonPath": "/Users/zengxin/anaconda3/bin/python",
     "python.linting.pylintEnabled": false,
     "python.linting.pep8Enabled": true,
     "python.linting.enabled": true,
     "python.linting.pep8Args": [
         "--ignore=E115,E265"
-    ]
+    ],
+    "editor.fontSize": 22
 }
